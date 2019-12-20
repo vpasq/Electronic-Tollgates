@@ -1,7 +1,7 @@
 ![Readme image](readme.png)
 
 # ElectronicTollGates ([UML Diagram](https://github.com/vpasq/Electronic-Tollgates/blob/master/ETC_UML.pdf)) 
-ElectronicTollCollection is a Java Maven project simulation of an Electronic Toll Collection 
+ElectronicTollCollection is a simulation of an Electronic Toll Collection 
 System. Customers are assigned to random vehicles and then driven through tollgates on random 
 highways. Each customer can own multiple vehicles, which is randomly determined at runtime. 
 The Visitor Pattern is used to calculate individual toll costs and then print the invoices to 
