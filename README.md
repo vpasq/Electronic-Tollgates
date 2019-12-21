@@ -8,11 +8,6 @@ The Visitor Pattern is used to calculate individual toll costs and then print th
 system.out. The number of customers, and the number of months to simulate, can be easily changed at 
 the beginning, or even during, the simulation.
 
-Note:  
-I wanted to show the invoices displayed to the screen. But breaking them down to monthly
-invoices for each customer makes the output way too long, so I am just showing the totals for 
-the number of months selected. 
-
 A complete list of design patterns used is as follows:
  
 - Visitor Pattern
