@@ -8,7 +8,7 @@ The Visitor Pattern is used to calculate individual toll costs and then print th
 system.out. The number of customers, and the number of months to simulate, can be easily changed at 
 the beginning, or even during, the simulation.
 
-A complete list of design patterns used is as follows:
+List of design patterns used:
  
 - Visitor Pattern
 - Factory Pattern
