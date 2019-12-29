@@ -3,8 +3,8 @@
 # ElectronicTollGates ([UML Diagram](https://github.com/vpasq/Electronic-Tollgates/blob/master/ETC_UML.pdf)) 
 ElectronicTollGates is a simulation of an Electronic Toll Collection 
 System. Customers are assigned to random vehicles and then driven through tollgates on random 
-highways. Each customer can own multiple vehicles, which is randomly determined at runtime. 
-The Visitor Pattern is used to calculate individual toll costs and then print the invoices to 
+highways. Each customer can own multiple vehicles, which are randomly determined at runtime. 
+The Visitor Pattern is used to calculate individual toll costs and print invoices to 
 system.out. The number of customers and the number of months to simulate can be easily changed at 
 the beginning or during the simulation.
 
